@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+nav{
+	display:flex;
+	background-color:black;
+	color:white;
+	justify-content:between;
+	align-items:center;
+}
